@@ -1,0 +1,24 @@
+* {
+  box-sizing: border-box;
+}
+html, body, #app{
+  height: 100%;
+  padding: 0;
+  margin: 0;
+  min-width: 1366px;
+  background-color: #ebeef5;
+}
+
+.el-breadcrumb {
+  margin-bottom: 15px;
+}
+
+.el-table {
+  margin-top: 15px;
+  font-size: 12px;
+}
+
+.icon-setting, .icon-caret-right {
+  cursor: pointer;
+  color: #7682A8;
+}
